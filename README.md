@@ -5,4 +5,4 @@ some of my configs.
 ![emacs](screenshots/emacs.png?raw=true)
 
 ## tmux
-![tmux](screenshots/tmux.png)
+![tmux](screenshots/tmux.png?raw=true)
