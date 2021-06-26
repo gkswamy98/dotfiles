@@ -159,3 +159,9 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+;; A basic org-mode config.
+(require 'org)
+(setq org-agenda-files (list "~/dev/org/agenda.org"))
+(setq org-agenda-span 14)
+(require 'nano-agenda)
